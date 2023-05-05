@@ -1,0 +1,149 @@
+{
+    "version": 120,
+    "GeneralData":
+    {
+        "disableBaseDamage": false,
+        "disableContainerDamage": false,
+        "disableRespawnDialog": false
+    },
+    "PlayerData":
+    {
+        "disablePersonalLight": false,
+		"StaminaData":
+		{
+			"sprintStaminaModifierErc": 0.7,
+			"sprintStaminaModifierCro": 0.7,
+			"staminaWeightLimitThreshold": 6000.0,
+			"staminaMax": 100.0,
+			"staminaKgToStaminaPercentPenalty": 0.7,
+			"staminaMinCap": 5.0,
+			"sprintSwimmingStaminaModifier": 0.8,
+			"sprintLadderStaminaModifier": 0.8,
+			"meleeStaminaModifier": 0.8,
+			"obstacleTraversalStaminaModifier": 0.8,
+			"holdBreathStaminaModifier": 0.8
+		},
+        "ShockHandlingData":
+        {
+            "shockRefillSpeedConscious": 18.0,
+            "shockRefillSpeedUnconscious": 18.0,
+            "allowRefillSpeedModifier": true
+        },
+		"MovementData":
+		{
+			"timeToStrafeJog": 0.1,
+			"rotationSpeedJog": 0.3,
+			"timeToSprint": 0.45,
+			"timeToStrafeSprint": 0.3,
+			"rotationSpeedSprint": 0.15,
+			"allowStaminaAffectInertia": true
+		},
+		"DrowningData":
+		{
+			"staminaDepletionSpeed": 10.0,
+			"healthDepletionSpeed": 10.0,
+			"shockDepletionSpeed": 10.0
+		}       
+    },
+    "WorldsData":
+    {
+        "lightingConfig": 1,
+        "objectSpawnersArr": [
+            "custom/testbuildings.json",
+            "custom/medieval-bridge-prison.json",
+            "custom/medieval-bridge.json",
+            "custom/Tunnel_Bridge_Skalisty.json",
+            "custom/skalisty_dam_bridge_radio_tower.json",
+            "custom/Skalisty_Island_Castle_Compound.json",
+            "custom/Skalisty_Tower_church.json",
+            "custom/Skalisty_Restored_Castle.json",
+            "custom/Haunted3.json",
+            "custom/maze2-krasno.json",
+            "custom/stonefort.json",
+            "custom/Pyramid-base-filled.json",
+            "custom/maze2.json",
+            "custom/haunted-keep.json",
+            "custom/krasno-bunker2.json",
+            "custom/gas-station-krasno.json",
+            "custom/escape.json",
+			"custom/Starter-Gear-5x-Chernarus.json"
+        ],
+        "environmentMinTemps": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18],
+        "environmentMaxTemps": [18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18]
+    },
+    "OldData": {
+        "objectSpawnersArrOld": [
+            "custom/testbuildings.json",
+            "custom/Tunnel_Bridge_Skalisty.json",
+            "custom/Prison_Bridge_console.json",
+            "custom/medieval-bridge-prison.json",
+            "custom/skalisty_dam_bridge_radio_tower.json",
+            "custom/Skalisty_Island_Castle_Compound.json",
+            "custom/Bridge_Skalisty_Dam.json",
+            "custom/Skalisty_Tower_church.json",
+            "custom/Skalisty_Restored_Castle.json",
+            "custom/Haunted3.json",
+            "custom/stonefort.json",
+            "custom/Pyramid-base-filled.json",
+            "custom/maze2.json",
+            "custom/haunted-keep.json",
+            "custom/air-castle-2.json",
+            "custom/krasno-bunker.json",
+            "custom/gas-station-krasno.json",
+            "custom/PVP-on-the-Sea2.json",
+            "custom/debug-island-bridge.json",
+			"custom/builder.json",
+			"custom/starter.json",
+			"custom/starter5.json",
+            "custom/escape.json",
+			"custom/Starter-Gear-5x-Chernarus.json",
+			"custom/snowtest.json",
+            "custom/gun-range.json",
+            "custom/capture-flag.json"            			
+        ]
+    },
+    "BaseBuildingData":
+    {
+        "HologramData":
+        {
+            "disableIsCollidingBBoxCheck": false,
+            "disableIsCollidingPlayerCheck": false,
+            "disableIsClippingRoofCheck": false,
+            "disableIsBaseViableCheck": false,
+            "disableIsCollidingGPlotCheck": false,
+            "disableIsCollidingAngleCheck": false,
+            "disableIsPlacementPermittedCheck": false,
+            "disableHeightPlacementCheck": false,
+            "disableIsUnderwaterCheck": false,
+            "disableIsInTerrainCheck": false
+        },
+        "ConstructionData":
+        {
+            "disablePerformRoofCheck": false,
+            "disableIsCollidingCheck": false,
+            "disableDistanceCheck": false
+        }
+    },
+    "UIData":
+    {
+        "use3DMap": false,
+        "HitIndicationData":
+        {
+            "hitDirectionOverrideEnabled": false,
+            "hitDirectionBehaviour": 1,
+            "hitDirectionStyle": 0,
+            "hitDirectionIndicatorColorStr": "0xffbb0a1e",
+            "hitDirectionMaxDuration": 2.0,
+            "hitDirectionBreakPointRelative": 0.2,
+            "hitDirectionScatter": 10.0,
+            "hitIndicationPostProcessEnabled": true
+        }
+    },
+    "MapData":
+    {
+        "ignoreMapOwnership": false,
+        "ignoreNavItemsOwnership": false,
+        "displayPlayerPosition": true,
+        "displayNavInfo": true
+    } 
+}

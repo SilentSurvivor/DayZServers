@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<map>
+
+	<group name="Land_Castle_Bergfrit" pos="2786.850098 127.699997 2949.739990" rpy="0.000000 0.000000 -18.000000" a="108"/>
+	<group name="Land_CementWorks_ExpeditionB" pos="2770.209961 142.500000 2974.260010" rpy="0.000000 0.000000 -107.999992" a="-162"/>
+	<group name="Land_CementWorks_ExpeditionB" pos="2780.459961 142.500000 2946.879883" rpy="0.000000 0.000000 71.527687" a="18.4723"/>
+	<group name="Land_CementWorks_ExpeditionB" pos="2789.729980 142.500000 2919.199951" rpy="0.000000 0.000000 71.574402" a="18.4256"/>
+	<group name="Land_Castle_Gate" pos="2773.360107 128.000000 2961.530029" rpy="0.000000 0.000000 69.999992" a="20"/>
+	<group name="Land_Castle_Gate" pos="2783.379883 127.000000 2930.000000" rpy="0.000000 0.000000 69.999992" a="20"/>
+	<group name="Land_Mil_Tent_Big1_1" pos="2846.540039 146.199997 2999.729980" rpy="0.900729 0.935027 71.999893" a="18.0001"/>
+	<group name="Land_Mil_Tent_Big1_2" pos="2848.921387 145.781372 2991.516113" rpy="0.904277 1.417587 72.000000" a="18"/>
+	<group name="Land_Mil_Tent_Big1_3" pos="2851.792236 145.951813 2981.808350" rpy="1.601470 1.001851 72.000038" a="18"/>
+	<group name="Land_Mil_Tent_Big1_4" pos="2854.780029 146.281998 2971.500000" rpy="0.000000 0.000000 72.000008" a="18"/>
+	<group name="Land_Mil_Tent_Big1_5" pos="2858.739990 146.218002 2960.350098" rpy="0.000000 0.000000 73.000000" a="17"/>
+	<group name="Land_Mil_Tent_Big3" pos="2862.750000 147.199997 2946.590088" rpy="0.000000 0.000000 -18.000000" a="108"/>
+	<group name="Land_Mil_ATC_Small" pos="2831.239990 156.500000 2963.199951" rpy="0.000000 0.000000 161.999985" a="-72"/>
+	<group name="Land_Mil_Barracks_Round" pos="2832.659912 147.000000 2993.060059" rpy="0.000000 0.000000 -18.000099" a="108"/>
+	<group name="Land_Mil_Barracks_Round" pos="2825.679932 147.000000 2990.709961" rpy="0.000000 0.000000 -18.086098" a="108.086"/>
+	<group name="Land_Mil_Barracks_Round" pos="2818.439941 147.000000 2988.370117" rpy="0.000000 0.000000 -18.081099" a="108.081"/>
+	<group name="Land_Mil_Barracks_Round" pos="2811.060059 147.000000 2986.290039" rpy="0.000000 0.000000 -18.077900" a="108.078"/>
+	<group name="Land_Mil_Barracks_Round" pos="2802.679932 147.000000 2983.330078" rpy="0.000000 0.000000 -18.139997" a="108.14"/>
+	<group name="Land_Mil_Barracks_Round" pos="2816.669922 147.000000 2929.840088" rpy="0.000000 0.000000 161.999985" a="-72"/>
+	<group name="Land_Mil_Barracks_Round" pos="2824.909912 147.000000 2932.340088" rpy="0.000000 0.000000 161.999985" a="-72"/>
+	<group name="Land_Mil_Barracks_Round" pos="2834.399902 147.000000 2935.500000" rpy="0.000000 0.000000 161.999985" a="-72"/>
+	<group name="Land_Mil_Barracks_Round" pos="2843.310059 147.000000 2938.340088" rpy="0.000000 0.000000 161.999985" a="-72"/>
+	<group name="Land_Mil_Barracks_Round" pos="2850.709961 147.000000 2940.429932" rpy="0.000000 0.000000 161.999985" a="-72"/>
+	<group name="Land_Castle_Gate" pos="2797.699951 150.759995 2953.000000" rpy="0.000000 0.000000 72.000084" a="17.9999"/>
+
+</map>

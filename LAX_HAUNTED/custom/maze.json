@@ -1,0 +1,501 @@
+{
+	"Objects": [
+
+		{
+			"name": "Land_Castle_Gate",
+			"pos": [5014, 0, 7488],
+			"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7600],
+			"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7614],
+			"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7628],
+			"ypr": [0, 0, 0]
+		},
+
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7642],
+			"ypr": [0, 0, 0]
+		},
+
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7656],
+			"ypr": [0, 0, 0]
+		},
+
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7670],
+			"ypr": [0, 0, 0]
+		},
+
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5014, 0, 7670],
+			"ypr": [0, 0, 0]
+		},
+
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7586],
+			"ypr": [0, 0, 0]
+		},
+
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7572] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7558] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7544] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7530] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7516] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7502] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5000, 0, 7488] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5028, 0, 7488] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5042, 0, 7488] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5056, 0, 7488] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5070, 0, 7488] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5084, 0, 7488] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5098, 0, 7488] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5112, 0, 7488] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5126, 0, 7488] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5140, 0, 7488] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5154, 0, 7488] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5028, 0, 7530] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5028, 0, 7516] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5042, 0, 7516] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5056, 0, 7516] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5084, 0, 7516] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5098, 0, 7516] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5112, 0, 7516] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5126, 0, 7516] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5140, 0, 7516] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5056, 0, 7530] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5084, 0, 7530] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5056, 0, 7544] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5084, 0, 7544] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5112, 0, 7544] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5140, 0, 7544] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5154, 0, 7544] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5028, 0, 7558] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5056, 0, 7558] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5112, 0, 7558] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5140, 0, 7558] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5028, 0, 7572] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Bergfrit",
+			"pos": [5098, 0, 7572] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Stairs_nolc",
+			"pos": [5085, 0, 7570] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5112, 0, 7572] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5028, 0, 7586] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5042, 0, 7586] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5056, 0, 7586] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5070, 0, 7586] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5098, 0, 7586] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5140, 0, 7586] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5056, 0, 7600] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5126, 0, 7600] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5028, 0, 7614] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5056, 0, 7614] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5084, 0, 7614] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5098, 0, 7614] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5126, 0, 7614] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5140, 0, 7614] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5154, 0, 7614] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5028, 0, 7628] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5056, 0, 7628] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5084, 0, 7628] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5028, 0, 7642] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5084, 0, 7642] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5112, 0, 7642] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5126, 0, 7642] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5140, 0, 7642] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5028, 0, 7670] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5042, 0, 7670] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5056, 0, 7670] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5070, 0, 7670] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5084, 0, 7670] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5098, 0, 7670] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5112, 0, 7670] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5126, 0, 7670] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5140, 0, 7670] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Gate",
+			"pos": [5154, 0, 7670] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5056, 0, 7656] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7670] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7656] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7642] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7628] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7614] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7600] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7586] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7572] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7558] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7544] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7530] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7516] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7502] ,
+				"ypr": [0, 0, 0]
+		},
+		{
+			"name": "Land_Castle_Donjon",
+			"pos": [5168, 0, 7488] ,
+				"ypr": [0, 0, 0]
+		}
+	]
+}

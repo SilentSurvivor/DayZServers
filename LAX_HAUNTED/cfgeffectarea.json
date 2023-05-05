@@ -1,0 +1,686 @@
+{
+    "Areas": [
+		{ 	"AreaName": "Haunted-Area-1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [ 12167, 0, 12634 ],
+				"Radius": 100,
+				"PosHeight":50,
+				"NegHeight": 20,
+				"InnerRingCount": 1,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40,
+				"OuterOffset": -80, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/smoke_bonfire",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_GlassesSportBlack"
+			}
+		},
+        { 	"AreaName": "Haunted-Area-2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [ 12167, 0, 12634 ],
+				"Radius": 100,
+				"PosHeight":50,
+				"NegHeight": 20,
+				"InnerRingCount": 1,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 60,
+				"OuterOffset": -120, 
+				"VerticalLayers": 1,
+				"VerticalOffset": 25,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/smoke_bonfire",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_GlassesSportBlack"
+			}
+		},
+        { 	"AreaName": "Haunted-Maze-1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [ 4191, 0, 7878 ],
+				"Radius": 100,
+				"PosHeight":50,
+				"NegHeight": 20,
+				"InnerRingCount": 1,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40,
+				"OuterOffset": -80, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_TunnelVisionEffects"
+			}
+		},
+        { 	"AreaName": "Haunted-FloatingCastle-1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [ 11240, 360, 7954 ],
+				"Radius": 100,
+				"PosHeight":50,
+				"NegHeight": 20,
+				"InnerRingCount": 1,
+				"InnerPartDist": 25,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40,
+				"OuterOffset": -80, 
+				"VerticalLayers": 1,
+				"VerticalOffset": 20,
+				"ParticleName": "graphics/particles/toxic_cloud"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_TunnelVisionEffects"
+			}
+		},
+        { 	"AreaName": "Haunted-Ground-Door-1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [ 11239, 0, 7946.5 ],
+				"Radius": 100,
+				"PosHeight":5,
+				"NegHeight": 5,
+				"InnerRingCount": 0,
+				"InnerPartDist": 0,
+				"OuterRingToggle": 0, 
+				"OuterPartDist": 0,
+				"OuterOffset": -0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/fire_bonfire"
+				}
+		},
+        { 	"AreaName": "Fog-0-gnomovzamok-castle", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [ 3224, 0, 9111 ],
+				"Radius": 999999,
+				"PosHeight": 25,
+				"NegHeight": 20,
+				"InnerRingCount": 20,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Fog-1", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [ 3224, 0, 13313 ],
+				"Radius": 999999,
+				"PosHeight": 25,
+				"NegHeight": 20,
+				"InnerRingCount": 20,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Fog-2", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [ 10000, 0, 13313 ],
+				"Radius": 999999,
+				"PosHeight": 25,
+				"NegHeight": 20,
+				"InnerRingCount": 20,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Fog-3", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [ 6274, 0, 10388 ],
+				"Radius": 999999,
+				"PosHeight": 25,
+				"NegHeight": 20,
+				"InnerRingCount": 20,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Fog-4", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [ 2198, 0, 6412 ],
+				"Radius": 999999,
+				"PosHeight": 25,
+				"NegHeight": 20,
+				"InnerRingCount": 20,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},
+        { 	"AreaName": "Fog-5", 
+			"Type": "ContaminatedArea_Static", 
+			"TriggerType": "EffectTrigger",
+			"Data": { 
+				"Pos": [ 10350, 0, 6412 ],
+				"Radius": 999999,
+				"PosHeight": 25,
+				"NegHeight": 20,
+				"InnerRingCount": 20,
+				"InnerPartDist": 50,
+				"OuterRingToggle": 1, 
+				"OuterPartDist": 40, 
+				"OuterOffset": 0, 
+				"VerticalLayers": 0,
+				"VerticalOffset": 0,
+				"ParticleName": "graphics/particles/spooky_mist"
+				},
+			"PlayerData": {
+				"AroundPartName": "graphics/particles/contaminated_area_gas_around",
+				"TinyPartName": "graphics/particles/contaminated_area_gas_around_tiny",
+				"PPERequesterType": "PPERequester_ContaminatedAreaTint"
+			}
+		},				
+		{ 	"AreaName": "Bhaals-Ground-FloatingWall-1", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11183, 243, 7884 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-FloatingWall-2", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11197, 243, 7884 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-FloatingWall-3", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11211, 243, 7884 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-FloatingWall-4", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11225, 243, 7884 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-FloatingWall-5", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11255, 243, 7884 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-FloatingWall-6", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11269, 243, 7884 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-FloatingWall-7", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11283, 243, 7884 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-FloatingWall-8", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11297, 243, 7884 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-left-FloatingWall-1", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11183, 243, 7898 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-left-FloatingWall-2", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11183, 243, 7912 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-left-FloatingWall-3", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11183, 243, 7926 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-left-FloatingWall-4", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11183, 243, 7940 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-left-FloatingWall-5", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11183, 244, 7954 ]
+			}
+		},	
+		{ 	"AreaName": "Bhaals-Ground-left-FloatingWall-6", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11183, 248, 7968 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-left-FloatingWall-7", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11183, 248, 7982 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-left-FloatingWall-8", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11183, 248, 7996 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-left-FloatingWall-9", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11183, 248, 8010 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-right-FloatingWall-1", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11297, 244, 7898 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-right-FloatingWall-2", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11297, 246, 7912 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-right-FloatingWall-3", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11297, 247, 7926 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-right-FloatingWall-4", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11297, 249, 7940 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-right-FloatingWall-5", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11297, 252, 7954 ]
+			}
+		},	
+		{ 	"AreaName": "Bhaals-Ground-right-FloatingWall-6", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11297, 253, 7968 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-right-FloatingWall-7", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11297, 258, 7982 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-right-FloatingWall-8", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11297, 258, 7996 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-right-FloatingWall-9", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11297, 263, 8010 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-top-FloatingWall-1", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11183, 249, 8024 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-top-FloatingWall-2", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11197, 249, 8024 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-top-FloatingWall-3", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11211, 250, 8024 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-top-FloatingWall-4", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11225, 251, 8024 ]
+			}
+		},		
+		{ 	"AreaName": "Bhaals-Ground-FloatingGate-2", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11240, 255, 8024 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-top-FloatingWall-5", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11255, 257, 8024 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-top-FloatingWall-6", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11269, 259, 8024 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-top-FloatingWall-7", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11283, 262, 8024 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-top-FloatingWall-8", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11297, 262, 8024 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-Floatingcenter-1", 
+			"Type": "Land_Castle_Bergfrit", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11240, 0, 7954 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-stair-1", 
+			"Type": "Land_Castle_Stairs_nolc", 
+			"Data": { 
+				"Pos": [ 11227, 0, 7952 ]
+				}
+		},
+		{ 	"AreaName": "Bhaals-Ground-stair-1", 
+			"Type": "Land_Wall_Gate_FenR", 
+			"Data": { 
+				"Pos": [ 11239, 0, 7946.7 ]
+				}
+		},		
+		{ 	"AreaName": "Bhaals-Ground-Floatingcenter-trim-1", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11230, 248, 7964 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Ground-Floatingcenter-trim-2", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11250, 248, 7964 ]
+			}
+		},		
+		{ 	"AreaName": "Bhaals-Ground-Floatingcenter-trim-4", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11250, 248, 7944 ]
+			}
+		},		
+		{ 	"AreaName": "Bhaals-Floatingcenter-1", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11080, 0, 7954 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-FLoatingcenter-2", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11080, 260, 7954 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-FloatingBonfire45", 
+			"Type": "Bonfire", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11080, 0, 7954 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Floatingcenter-trim-1a", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11070, 0, 7964 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Floatingcenter-trim-2a", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11090, 0, 7964 ]
+			}
+		},		
+		{ 	"AreaName": "Bhaals-Floatingcenter-trim-3a", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11070, 0, 7944 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Floatingcenter-trim-4a", 
+			"Type": "Land_Castle_Donjon", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11090, 0, 7944 ]
+			}
+		},		
+		{ 	"AreaName": "Bhaals-Floatingcenter-trim-1", 
+			"Type": "Land_Castle_Bergfrit", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11060, 0, 7974 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Floatingcenter-trim-2", 
+			"Type": "Land_Castle_Bergfrit", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11100, 0, 7974 ]
+			}
+		},		
+		{ 	"AreaName": "Bhaals-Floatingcenter-trim-3", 
+			"Type": "Land_Castle_Bergfrit", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11060, 0, 7934 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Floatingcenter-trim-4", 
+			"Type": "Land_Castle_Bergfrit", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11100, 0, 7934 ]
+			}
+		},		
+		{ 	"AreaName": "Bhaals-FloatingChurch-1", 
+			"Type": "Land_Ruin_Church2", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11203, 0, 7904 ]
+			}
+		},
+		{ 	"AreaName": "Bhaals-Bonfire1", 
+			"Type": "Bonfire", 
+			"TriggerType": "",
+			"Data": { 
+				"Pos": [ 11865, 142, 12424 ]
+			}
+		}
+    ],
+
+	"SafePositions":[
+		[434, 13624],
+		[360, 10986],
+		[1412, 13505],
+		[1290, 11773],
+		[5742, 8568],
+		[4191, 4620],
+		[4949, 6569],
+		[1018, 7138],
+		[5041, 2640],
+		[6895, 7915],
+		[6128, 8120],
+		[4420, 8117],
+		[2811, 10209],
+		[1954, 2417],
+		[3633, 8708],
+		[5222, 5737],
+		[3546, 2628],
+		[2373, 5516],
+		[2462, 6879],
+		[1654, 300],
+		[11774, 14570],
+		[8228, 9345],
+		[11100, 13400],
+		[9333, 8697],
+		[11513, 12203],
+		[4955, 10603],
+		[5090, 15054],
+		[6513, 14579],
+		[3483, 14941],
+		[4019, 11194],
+		[7607, 12384],
+		[4307, 9528],
+		[3266, 12352],
+		[4432, 13285],
+		[5473, 12455],
+		[9731, 13685],
+		[2745, 7784],
+		[8492, 14128],
+		[3501, 13292],
+		[7912, 10943],
+		[4165, 10134],
+		[10536, 7871],
+		[1467, 14288],
+		[5479, 9709],
+		[9449, 11963],
+		[319, 9222],
+		[8009, 14843],
+		[7206, 7158],
+		[12303, 13601],
+		[3435, 5959],
+		[4060, 12050],
+		[6633, 2988],
+		[870, 2095],
+		[10286, 9071],
+		[10371, 5690]
+	]
+}	

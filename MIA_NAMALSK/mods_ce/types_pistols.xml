@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<types>
+
+  <type name="Colt1911">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>200</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="pistols" />
+    <tag name="civilian" />
+  </type>
+  <type name="Engraved1911">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>1800</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier234" />
+    <category name="pistols" />
+    <tag name="military" />
+  </type>
+  <type name="CZ75">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>200</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="pistols" />
+    <tag name="police" />
+  </type>
+  <type name="Deagle">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>14400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="pistols" />
+    <tag name="civilian" />
+  </type>
+  <type name="Deagle_Gold">
+    <nominal>1</nominal>
+    <lifetime>7200</lifetime>
+    <restock>14400</restock>
+    <min>1</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="pistols" />
+    <tag name="civilian" />
+  </type>
+  <type name="FNX45">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>300</restock>
+    <min>3</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier234" />
+    <category name="pistols" />
+    <tag name="military" />
+  </type>
+  <type name="Glock19">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>200</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier23" />
+    <category name="pistols" />
+    <tag name="police" />
+  </type>
+  <type name="Magnum">
+    <nominal>4</nominal>
+    <lifetime>7200</lifetime>
+    <restock>300</restock>
+    <min>3</min>
+    <quantmin>0</quantmin>
+    <quantmax>80</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="pistols" />
+    <tag name="civilian" />
+  </type>
+  <type name="MKII">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>100</restock>
+    <min>8</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value />
+    <category name="pistols" />
+    <tag name="civilian" />
+    <tag name="hunting" />
+  </type>
+  <type name="MakarovIJ70">
+    <nominal>10</nominal>
+    <lifetime>7200</lifetime>
+    <restock>100</restock>
+    <min>7</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier1" />
+    <category name="pistols" />
+    <tag name="civilian" />
+  </type>
+  <type name="P1">
+    <nominal>7</nominal>
+    <lifetime>7200</lifetime>
+    <restock>100</restock>
+    <min>5</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier1" />
+    <category name="pistols" />
+    <tag name="civilian" />
+  </type>
+  <type name="LongHorn">
+    <nominal>3</nominal>
+    <lifetime>7200</lifetime>
+    <restock>100</restock>
+    <min>2</min>
+    <quantmin>-1</quantmin>
+    <quantmax>-1</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier12" />
+    <category name="pistols" />
+    <tag name="hunting" />
+  </type>
+  <type name="Derringer_Black">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier1" />
+    <category name="pistols" />
+    <tag name="civilian" />
+  </type>
+  <type name="Derringer_Grey">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier1" />
+    <category name="pistols" />
+    <tag name="civilian" />
+  </type>
+  <type name="Derringer_Pink">
+    <nominal>2</nominal>
+    <lifetime>7200</lifetime>
+    <restock>0</restock>
+    <min>1</min>
+    <quantmin>100</quantmin>
+    <quantmax>100</quantmax>
+    <cost>100</cost>
+    <flags count_in_map="1" count_in_hoarder="0" count_in_cargo="0" count_in_player="0" crafted="0" deloot="0" />
+    <usage />
+    <value user="Tier1" />
+    <category name="pistols" />
+    <tag name="civilian" />
+  </type>
+
+</types>

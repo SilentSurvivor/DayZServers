@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<messages>
+
+    <message>
+    	<delay>10</delay>
+        <repeat>25</repeat>
+        <text>Was that a Helicopter or a Plane I just heard?</text>
+    </message>    
+ 
+</messages>
