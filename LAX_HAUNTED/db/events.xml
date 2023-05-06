@@ -153,7 +153,6 @@
         </children>
     </event>	
 
-    <!-- added 1.14 -->
     <event name="InfectedNBC">
         <nominal>50</nominal>
         <min>25</min>
@@ -1536,7 +1535,6 @@
         <children>
             <child lootmax="5" lootmin="0" max="0" min="100" type="ZmbM_SkaterYoung_Blue"/>
         </children>
-    </event>	
-    <!-- End Random Zombie Placement -->
+    </event>
 	
 </events>
