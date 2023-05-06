@@ -48,7 +48,6 @@
 		<!-- HEN -->
 		<territory type="Ambient" name="AmbientHen" behavior="DZAmbientLifeGroupBeh">
 			<file usable="hen_territories" />
-			<!-- different agent types - class has to begin with AgentType:w -->
 			<agent type="Male" chance="1">
 				<spawn configName="Animal_GallusGallusDomesticus" chance="1" />
 			</agent>
@@ -68,7 +67,6 @@
 		<!-- HARE -->
 		<territory type="Ambient" name="AmbientHare" behavior="DZAmbientLifeGroupBeh">
 			<file usable="hare_territories" />
-			<!-- different agent types - class has to begin with AgentType:w -->
 			<agent type="Male" chance="1">
 				<spawn configName="Animal_LepusEuropaeus" chance="1" />
 			</agent>
@@ -86,7 +84,6 @@
 		<!-- INFECTED -->
 		<territory type="Herd" name="ZombieTest" behavior="DZdomesticGroupBeh">
 			<file usable="zombie_territories" />
-			<!-- different agent types - class has to begin with AgentType:w -->
 			<agent type="Male">
 				<spawn configName="ZombieMale3_NewAI" />
 				<item name="countMin" val="0" />
