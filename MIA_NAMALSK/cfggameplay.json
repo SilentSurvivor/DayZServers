@@ -17,11 +17,11 @@
 			"staminaMax": 100.0,
 			"staminaKgToStaminaPercentPenalty": 0.7,
 			"staminaMinCap": 5.0,
-			"sprintSwimmingStaminaModifier": 0.8,
-			"sprintLadderStaminaModifier": 0.8,
-			"meleeStaminaModifier": 0.8,
-			"obstacleTraversalStaminaModifier": 0.8,
-			"holdBreathStaminaModifier": 0.8
+			"sprintSwimmingStaminaModifier": 0.9,
+			"sprintLadderStaminaModifier": 0.9,
+			"meleeStaminaModifier": 0.9,
+			"obstacleTraversalStaminaModifier": 0.9,
+			"holdBreathStaminaModifier": 0.9
 		},
 		"ShockHandlingData":
 		{
