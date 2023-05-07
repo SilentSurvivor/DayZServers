@@ -2,7 +2,7 @@
 
 <territory-type>
 
-    <territory color="1136576269">
+    <territory color="1736576269">
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="7714.73" z="12723.7" r="60"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="3357.72" z="13141.2" r="140"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="2749.17" z="5387.09" r="120"/>
@@ -25,7 +25,7 @@
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="8048.57" z="12841.1" r="60"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="7937.14" z="12790.7" r="50"/>
     </territory>
-    <territory color="1291845632">
+    <territory color="3291845632">
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="10582.1" z="2490.38" r="100"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="6489" z="2382" r="60"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="1729" z="3835" r="70"/>
@@ -62,13 +62,17 @@
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11223.8" z="12213.8" r="70"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="13858.6" z="13460.5" r="50"/>
     </territory>
-	<territory color="1925774598">
+	<territory color="9925774598">
         <zone name="InfectedNBC" smin="8" smax="10" dmin="1" dmax="2" x="2148.21" z="3334.64" r="80"/>
         <zone name="InfectedNBC" smin="0" smax="0" dmin="1" dmax="2" x="2093.57" z="3510" r="80"/>
         <zone name="InfectedNBC" smin="0" smax="0" dmin="1" dmax="2" x="1915.71" z="3413.57" r="80"/>
         <zone name="InfectedNBC" smin="8" smax="10" dmin="1" dmax="2" x="13683.3" z="11180" r="80"/>
     </territory>
-    <territory color="2615190015">
+    <territory color="8289674462">
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="2601.31" z="1317.64" r="70"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="2776.25" z="1252.5" r="70"/>
+    </territory>
+    <territory color="7615190015">
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="12584.2" z="13797.5" r="70"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="12428.1" z="14206.3" r="80"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="10519" z="14264.5" r="70"/>
@@ -87,7 +91,7 @@
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11169" z="14454" r="50"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="10653" z="14287.5" r="60"/>
     </territory>
-    <territory color="4287731209">
+    <territory color="6287731209">
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="12111.7" z="9805" r="70"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11861.2" z="9213.43" r="70"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="12066.6" z="9382.21" r="60"/>
@@ -178,7 +182,7 @@
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="6667.5" z="3535.5" r="60"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="6787.5" z="3568.5" r="60"/>
     </territory>
-    <territory color="1102461653">
+    <territory color="2102461653">
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="975.857" z="7628.35" r="100"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="4127.5" z="8924.67" r="90"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="5248.33" z="9821.67" r="120"/>
@@ -303,6 +307,23 @@
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11100" z="12186.3" r="50"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11358.8" z="12541.3" r="50"/>
         <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="5806.5" z="4069.5" r="60"/>
+    </territory>
+    <territory color="6014176010">
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="10967" z="12433.5" r="50"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="12032.9" z="13738.3" r="50"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11585.5" z="14725" r="100"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11004" z="14391" r="100"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11655" z="14476.5" r="100"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11532" z="14578.5" r="50"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11310" z="14631" r="50"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11377.5" z="14724" r="50"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11706" z="14620.5" r="50"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="12090" z="13641.7" r="50"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="12181.7" z="13708.3" r="50"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="12123.3" z="13791.7" r="50"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11056.3" z="12378.8" r="50"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11166.3" z="12391.3" r="50"/>
+        <zone name="InfectedHaunted" smin="0" smax="0" dmin="1" dmax="2" x="11055" z="12273.8" r="50"/>
     </territory>
     
 </territory-type>
