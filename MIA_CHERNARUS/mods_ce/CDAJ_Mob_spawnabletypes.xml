@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<spawnabletypes>
+
+	<type name="CDAJ_ZmbM_Dark_Heavy">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+	</type>
+    <type name="CDAJ_ZmbM_Demon">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<cargo chance="1.0">
+			<item name="PunchedCard" chance="0.8" />
+		</cargo>
+	</type>
+    <type name="CDAJ_ZmbM_TribeDemon">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<cargo chance="1.0">
+			<item name="PunchedCard" chance="0.8" />
+		</cargo>
+	</type>
+    <type name="CDAJ_ZmbM_TribeDemon_Pale">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<cargo chance="1.0">
+			<item name="PunchedCard" chance="0.4" />
+		</cargo>
+	</type>
+    <type name="CDAJ_ZmbM_TribeDemon_White">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="foodArmy" />
+		<cargo preset="ammoArmy" />
+		<cargo chance="1.0">
+			<item name="PunchedCard" chance="0.4" />
+		</cargo>
+	</type>
+    <type name="CDAJ_ZmbM_Mutant_Pale">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+	</type>
+    <type name="CDAJ_ZmbM_Mutant">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+	</type>
+    <type name="CDAJ_ZmbM_Clown">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+		<cargo chance="1.0">
+			<item name="PunchedCard" chance="0.4" />
+		</cargo>
+	</type>
+    <type name="CDAJ_ZmbM_NBC_Red">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+	</type>
+    <type name="CDAJ_ZmbM_NBC_BlueLight">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+	</type>
+    <type name="CDAJ_ZmbM_NBC_Green">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+	</type>
+    <type name="CDAJ_ZmbM_NBC_Rainbow">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+	</type>
+    <type name="CDAJ_ZmbM_NBC_Space">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+	</type>
+    <type name="CDAJ_ZmbM_NBC_ERDL">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+	</type>
+    <type name="CDAJ_ZmbM_Mutant_Bloody">
+		<cargo preset="drinks_T1" />
+		<cargo preset="food_T1" />
+		<cargo preset="toolsCommon_T1" />
+	</type>
+
+</spawnabletypes>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
 <eventposdef>
+
 	<event name="VehicleCivilianSedan">
 		<pos x="12071.933594" z="9129.989258" a="317.953339" />
 		<pos x="12302.375001" z="9051.289062" a="60.399284" />
@@ -1458,7 +1460,7 @@
     <event name="AnimalWolf" />
     <event name="AnimalWildBoar" />
 	
-		<!-- EXPANSION CARS -->
+	<!-- EXPANSION CARS -->
 	<event name="VehicleUAZ">
 		<!-- Airfield Vyvor -->
 		<pos x="5419.167969" y="333.421509" z="9886.763672" a="178.721161" />
@@ -1521,6 +1523,7 @@
 		<!-- Dobroe -->
 		<pos x="12865" y="63.4724" z="15123.1" a="32.4625"/>
 	</event>
+
 	<!-- EXPANSION HELICOPTERS -->
 	<event name="VehicleMH6Helicopter">
 		<!-- Airfield Vyvor -->
@@ -1546,6 +1549,7 @@
 		<!-- Airfield Balota -->
 		<pos x="5030.672363" y="9.536390" z="2356.444824" a="40.269878" />
 	</event>
+
 	<!-- EXPANSION BOATS -->
 	<event name="VehicleUtilityBoat">
 		<!-- Prison Island -->
@@ -1589,5 +1593,5 @@
 		<!-- Svetlo -->
 		<pos x="14297.227539" y="1.070972" z="13244.783203" a="261.999641" />
 	</event>
-	
+
 </eventposdef>

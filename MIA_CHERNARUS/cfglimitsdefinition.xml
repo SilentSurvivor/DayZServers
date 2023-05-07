@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <lists>
+
     <categories>
         <category name="tools"/>
         <category name="containers"/>
@@ -41,4 +43,5 @@
         <value name="Tier4"/>
         <value name="Unique"/>
     </valueflags>
+
 </lists>

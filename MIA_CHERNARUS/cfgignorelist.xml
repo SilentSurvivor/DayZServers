@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
 <ignore>
+
 	<type name="Bandage"></type>
 	<type name="BandanaMask_BlackPattern"></type>
 	<type name="BandanaMask_CamoPattern"></type>
@@ -19,4 +21,5 @@
 	<type name="Spear"></type>
 	<type name="Mag_STANAGCoupled_30Rnd"></type>
 	<type name="Wreck_Mi8"></type>
+	
 </ignore>

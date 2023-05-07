@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<!--VESTS-->
+
+
 <types>
+
+    <!--VESTS-->
     <type name="MMG_JPC_Vest_black">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
@@ -72,8 +75,7 @@
         <value name="Tier4"/>
     </type>
 
-<!--POUCHES-->
-
+    <!--POUCHES-->
     <type name="MMG_Mag_Pouch_Black">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
@@ -202,8 +204,7 @@
         <value name="Tier4"/>
     </type>
 
-<!--BACKPACKS-->
-
+    <!--BACKPACKS-->
     <type name="MMG_carrier_backpack_black">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
@@ -275,8 +276,7 @@
         <value name="Tier4"/>
     </type>
 
-<!--BELTS-->
-
+    <!--BELTS-->
     <type name="MMG_falcon_b1_belt_black">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
@@ -292,8 +292,7 @@
         <value name="Tier4"/>
     </type>
 
-<!--HELMETS-->
-
+    <!--HELMETS-->
     <type name="MMG_tactical_helmet_black">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
@@ -363,8 +362,7 @@
         <value name="Tier4"/>
     </type>
 
-<!--ITEMS-->
-
+    <!--ITEMS-->
     <type name="MMG_sheath_black">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
@@ -422,8 +420,7 @@
         <value name="Tier4"/>
     </type>
 
-<!--CLOTHING-->
-
+    <!--CLOTHING-->
     <type name="MMG_operatorshirt_black">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
@@ -578,4 +575,5 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
+
 </types>

@@ -45,7 +45,6 @@
         </children>
     </event>
 
-    <!-- Expansion content -->
     <!-- CARS -->
 	<event name="VehicleUAZ">
         <nominal>5</nominal>

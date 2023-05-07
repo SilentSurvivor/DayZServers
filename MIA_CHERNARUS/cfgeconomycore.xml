@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
 <economycore>
+
 	<classes>
-<!--
-These are rootclasses to be used by economy.
-Do not forget to add attribute act="character", if root class represents character (player, infected, animal)
-Do not forget to add attribute act="car", if root class represents moveable vehicles
--->
 		<rootclass name="DefaultWeapon" /> <!-- weapons -->
 		<rootclass name="DefaultMagazine" /> <!-- magazines -->
 		<rootclass name="Inventory_Base" /> <!-- inventory items -->
@@ -34,42 +31,48 @@ Do not forget to add attribute act="car", if root class represents moveable vehi
 		<default name="save_events_startup" value="true"/>
 		<default name="save_types_startup" value="true"/>
 	</defaults>
-	
+
 	<ce folder="expansion_ce">
 		<file name="expansion_types.xml" type="types" />
 		<file name="expansion_spawnabletypes.xml" type="spawnabletypes" />
 		<file name="expansion_events.xml" type="events" />
 	</ce>
-	
+
 	<ce folder="mods_ce">
-		  <file name="types_clothes.xml" type="types" />
-		  <file name="types_containers.xml" type="types" />
-		  <file name="types_explosives.xml" type="types" />
-		  <file name="types_food.xml" type="types" />
-		  <file name="types_other.xml" type="types" />
-		  <file name="types_tools.xml" type="types" />
-		  <file name="types_vehiclesparts.xml" type="types" />
-		  <file name="types_weapons.xml" type="types" />
-		  <file name="CDAJ_Types.xml" type="types" />
-		  <file name="dogtags_types.xml" type="types" />
-		  <file name="mmg_cfgspawnabletypes.xml" type="spawnabletypes" />
-		  <file name="mmg_types_admingear.xml" type="types" />
-		  <file name="mmg_types_alpine.xml" type="types" />
-		  <file name="mmg_types_atacs.xml" type="types" />
-		  <file name="mmg_types_black.xml" type="types" />
-		  <file name="mmg_types_carbines.xml" type="types" />
-		  <file name="mmg_types_dark_woodland.xml" type="types" />
-		  <file name="mmg_types_erdl.xml" type="types" />
-		  <file name="mmg_types_green.xml" type="types" />\
-		  <file name="mmg_types_multicam.xml" type="types" />
-		  <file name="mmg_types_multicam_tropic.xml" type="types" />
-		  <file name="mmg_types_multicamblack.xml" type="types" />
-		  <file name="mmg_types_multicamblack_digital.xml" type="types" />
-		  <file name="mmg_types_NBC_NVG.xml" type="types" />
-		  <file name="mmg_types_patches.xml" type="types" />
-		  <file name="mmg_types_police.xml" type="types" />
-		  <file name="mmg_types_tan.xml" type="types" />
-		  <file name="mmg_types_ucp.xml" type="types" />
+		<file name="types_clothes.xml" type="types" />
+		<file name="types_containers.xml" type="types" />
+		<file name="types_explosives.xml" type="types" />
+		<file name="types_food.xml" type="types" />
+		<file name="types_other.xml" type="types" />
+		<file name="types_tools.xml" type="types" />
+		<file name="types_vehiclesparts.xml" type="types" />
+		<file name="types_weapons.xml" type="types" />
+
+		<file name="CDAJ_Equipment_Types.xml" type="types" />
+		<file name="CDAJ_Mob_Types.xml" type="types" />
+		<file name="CDAJ_Mob_Events.xml" type="events" />
+		<file name="CDAJ_Mob_spawnabletypes.xml" type="spawnabletypes" />
+
+		<file name="dogtags_types.xml" type="types" />
+
+		<file name="mmg_cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="mmg_types_admingear.xml" type="types" />
+		<file name="mmg_types_alpine.xml" type="types" />
+		<file name="mmg_types_atacs.xml" type="types" />
+		<file name="mmg_types_black.xml" type="types" />
+		<file name="mmg_types_carbines.xml" type="types" />
+		<file name="mmg_types_dark_woodland.xml" type="types" />
+		<file name="mmg_types_erdl.xml" type="types" />
+		<file name="mmg_types_green.xml" type="types" />\
+		<file name="mmg_types_multicam.xml" type="types" />
+		<file name="mmg_types_multicam_tropic.xml" type="types" />
+		<file name="mmg_types_multicamblack.xml" type="types" />
+		<file name="mmg_types_multicamblack_digital.xml" type="types" />
+		<file name="mmg_types_NBC_NVG.xml" type="types" />
+		<file name="mmg_types_patches.xml" type="types" />
+		<file name="mmg_types_police.xml" type="types" />
+		<file name="mmg_types_tan.xml" type="types" />
+		<file name="mmg_types_ucp.xml" type="types" />
 	</ce>
 	
 </economycore>
