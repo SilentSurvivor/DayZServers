@@ -4832,7 +4832,7 @@
     </type>
     <type name="CivilianSedan">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4842,7 +4842,7 @@
     </type>
     <type name="CivilianSedan_Black">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -4852,7 +4852,7 @@
     </type>
     <type name="CivilianSedan_Wine">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -8085,7 +8085,7 @@
     </type>
     <type name="Hatchback_02">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -12559,7 +12559,7 @@
     </type>
     <type name="OffroadHatchback">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -12569,7 +12569,7 @@
     </type>
     <type name="OffroadHatchback_Blue">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -12579,7 +12579,7 @@
     </type>
     <type name="OffroadHatchback_White">
         <nominal>0</nominal>
-        <lifetime>3</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>1800</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -12589,7 +12589,7 @@
     </type>
     <type name="Offroad_02">
         <nominal>0</nominal>
-        <lifetime>1800</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
