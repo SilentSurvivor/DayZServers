@@ -56,6 +56,7 @@
 		<file name="dogtags_types.xml" type="types" />
 
 		<file name="mmg_cfgspawnabletypes.xml" type="spawnabletypes" />
+		<file name="mmg_types_multicamblack_digital.xml" type="types" />
 		<file name="mmg_types_admingear.xml" type="types" />
 		<file name="mmg_types_alpine.xml" type="types" />
 		<file name="mmg_types_atacs.xml" type="types" />
@@ -67,7 +68,6 @@
 		<file name="mmg_types_multicam.xml" type="types" />
 		<file name="mmg_types_multicam_tropic.xml" type="types" />
 		<file name="mmg_types_multicamblack.xml" type="types" />	
-		<file name="mmg_types_multicamblack_digital.xml" type="types" />
 		<file name="mmg_types_NBC_NVG.xml" type="types" />
 		<file name="mmg_types_patches.xml" type="types" />
 		<file name="mmg_types_police.xml" type="types" />
