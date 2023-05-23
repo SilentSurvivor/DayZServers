@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <types>
+
 	<type name="ClaymoreMine">
         <nominal>14</nominal>
         <lifetime>14400</lifetime>
@@ -189,4 +191,5 @@
         <value name="Tier3" />
         <value name="Tier4" />
     </type>
+
 </types>

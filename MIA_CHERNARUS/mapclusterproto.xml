@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <prototype>
+
 		<clusters>
 			<export name="PathD10" shape="dz\structures\Roads\Parts\path_dirt_10.p3d" />
 			<export name="PathD30" shape="dz\structures\Roads\Parts\path_dirt_30.p3d" />
@@ -643,4 +645,5 @@
 			</container>
 		</cluster>
 -->
+
 </prototype>

@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <!--VESTS-->
 <types>
+
     <type name="MMG_JPC_Vest_multicamblack_digital">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
@@ -453,4 +455,5 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
+
 </types>

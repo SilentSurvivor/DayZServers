@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
 <map>
+
     <group name="PiceaAbies_3d" pos="12559.637695 175.697403 12925.011719" a="-166.000626" />
     <group name="PiceaAbies_fallenC" pos="12572.488281 163.022766 12955.389648" a="-64.053474" />
     <group name="Haybale" pos="12577.031250 171.476135 12902.782227" a="-87.028549" />
@@ -17347,4 +17349,5 @@
     <group name="PiceaAbies_2d" pos="15319.363281 218.683243 15242.416016" a="157.997818" />
     <group name="PiceaAbies_stump" pos="15319.015625 211.747635 15259.078125" a="69.841156" />
     <group name="PiceaAbies_stump" pos="15309.484375 212.244003 15256.461914" a="-146.049606" />
+
 </map>

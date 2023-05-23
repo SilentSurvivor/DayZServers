@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <!--PATCHES RUBBER-->
 <types>
+
     <type name="MMG_patch_rubber_dayz">
         <nominal>1</nominal>
         <lifetime>7200</lifetime>
@@ -857,4 +859,5 @@
 		<value name="Tier2"/>
         <value name="Tier3"/>
     </type>
+
 </types>
