@@ -17849,7 +17849,7 @@
                 </dispatch>
         </group>
         <group name="Land_Underground_Storage_Hospital" lootmax="20">
-                <usage name="Medical" />
+                <usage name="Medic" />
                 <container name="lootFloor" lootmax="20">
                         <category name="tools" />
                         <point pos="9.824950 0.859985 -3.071290" range="0.100000" height="0.250000" />
@@ -17876,7 +17876,7 @@
         </group>
         <group name="Land_Underground_Storage_Laboratory" lootmax="16">
                 <usage name="Underground" />
-                <usage name="Medical" />
+                <usage name="Medic" />
                 <container name="lootFloor" lootmax="16">
                         <category name="tools" />
                         <category name="clothes" />
