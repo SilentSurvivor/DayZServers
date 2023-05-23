@@ -3350,6 +3350,7 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
+    
 	<!-- OPTICS -->
 	<type name="ExpansionKar98ScopeOptic">
         <nominal>15</nominal>
@@ -3434,6 +3435,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
+
 	<!-- MISC ATTACHEMENTS -->
     <type name="Expansion_M1A_RailAtt">
         <nominal>7</nominal>
@@ -3480,6 +3482,7 @@
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
+
 	<!-- EXPLOSIVES -->
 	<type name="ExpansionSatchel">
         <nominal>10</nominal>
@@ -3496,6 +3499,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
+
 	<!-- CROSSBOWS -->
     <type name="Expansion_Crossbow">
         <nominal>30</nominal>
