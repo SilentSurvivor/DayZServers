@@ -520,7 +520,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="100" min="90" type="ZmbM_PolicemanSpecForce_Heavy"/>
             <child lootmax="5" lootmin="0" max="10" min="0" type="ZmbM_PrisonerSkinny"/>
