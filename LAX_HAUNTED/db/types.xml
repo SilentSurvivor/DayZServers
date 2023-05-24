@@ -14556,7 +14556,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Medic"/>
+        <usage name="Medical"/>
 		<usage name="Firefighter"/>
     </type>
     <type name="ParamedicJacket_Crimson">
@@ -14568,7 +14568,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Medic"/>
+        <usage name="Medical"/>
 		<usage name="Firefighter"/>
     </type>
     <type name="ParamedicJacket_Green">
@@ -14580,7 +14580,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Medic"/>
+        <usage name="Medical"/>
 		<usage name="Firefighter"/>
     </type>
     <type name="ParamedicPants_Blue">
@@ -14592,7 +14592,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Medic"/>
+        <usage name="Medical"/>
 		<usage name="Firefighter"/>
     </type>
     <type name="ParamedicPants_Crimson">
@@ -14604,7 +14604,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Medic"/>
+        <usage name="Medical"/>
 		<usage name="Firefighter"/>
     </type>
     <type name="ParamedicPants_Green">
@@ -14616,7 +14616,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <usage name="Medic"/>
+        <usage name="Medical"/>
 		<usage name="Firefighter"/>
     </type>
     <type name="FirefighterJacket_Beige">
@@ -17722,7 +17722,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorF_Frida">
         <nominal>0</nominal>
@@ -17733,7 +17733,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorF_Gabi">
         <nominal>0</nominal>
@@ -17744,7 +17744,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorF_Helga">
         <nominal>0</nominal>
@@ -17755,7 +17755,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorF_Irena">
         <nominal>0</nominal>
@@ -17766,7 +17766,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>	
     <type name="SurvivorF_Judy">
         <nominal>0</nominal>
@@ -17777,7 +17777,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorF_Keiko">
         <nominal>0</nominal>
@@ -17788,7 +17788,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorF_Linda">
         <nominal>0</nominal>
@@ -17799,7 +17799,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorF_Maria">
         <nominal>0</nominal>
@@ -17810,7 +17810,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorF_Naomi">
         <nominal>0</nominal>
@@ -17821,7 +17821,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Boris">
         <nominal>0</nominal>
@@ -17832,7 +17832,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Cyril">
         <nominal>0</nominal>
@@ -17843,7 +17843,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Denis">
         <nominal>0</nominal>
@@ -17854,7 +17854,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Elias">
         <nominal>0</nominal>
@@ -17865,7 +17865,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Francis">
         <nominal>0</nominal>
@@ -17876,7 +17876,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Guo">
         <nominal>0</nominal>
@@ -17887,7 +17887,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Hassan">
         <nominal>0</nominal>
@@ -17898,7 +17898,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Indar">
         <nominal>0</nominal>
@@ -17909,7 +17909,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Jose">
         <nominal>0</nominal>
@@ -17920,7 +17920,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Kaito">
         <nominal>0</nominal>
@@ -17931,7 +17931,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Lewis">
         <nominal>0</nominal>
@@ -17942,7 +17942,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Manua">
         <nominal>0</nominal>
@@ -17953,7 +17953,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Mirek">
         <nominal>0</nominal>
@@ -17964,7 +17964,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Niki">
         <nominal>0</nominal>
@@ -17975,7 +17975,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Oliver">
         <nominal>0</nominal>
@@ -17986,7 +17986,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Peter">
         <nominal>0</nominal>
@@ -17997,7 +17997,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Quinn">
         <nominal/>
@@ -18008,7 +18008,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Rolf">
         <nominal/>
@@ -18019,7 +18019,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Seth">
         <nominal/>
@@ -18030,7 +18030,7 @@
         <quantmax>-1</quantmax>
         <cost/>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>
     <type name="SurvivorM_Taiki">
         <nominal/>
@@ -18041,7 +18041,7 @@
         <quantmax>-1</quantmax>
         <cost/>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-		<usage name="npc"/>
+		<usage name="Zombies"/>
     </type>	
     <!-- End NPC's -->
 
