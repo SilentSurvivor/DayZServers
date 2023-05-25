@@ -1109,7 +1109,7 @@
         <category name="tools" />
     </type>
     <type name="Flag_BabyDeer">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1133,7 +1133,7 @@
         <category name="tools" />
     </type>
     <type name="Flag_Bohemia">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1157,7 +1157,7 @@
         <category name="tools" />
     </type>
     <type name="Flag_CDF">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1170,7 +1170,7 @@
         <usage name="School" />
     </type>
     <type name="Flag_CHEL">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1183,7 +1183,7 @@
         <usage name="School" />
     </type>
     <type name="Flag_CMC">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1196,7 +1196,7 @@
         <usage name="School" />
     </type>
     <type name="Flag_Cannibals">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1209,7 +1209,7 @@
         <usage name="School" />
     </type>
     <type name="Flag_Chedaki">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1222,7 +1222,7 @@
         <usage name="School" />
     </type>
     <type name="Flag_Chernarus">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1246,7 +1246,7 @@
         <category name="tools" />
     </type>
     <type name="Flag_DayZ">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1259,7 +1259,7 @@
         <usage name="School" />
     </type>
     <type name="Flag_HunterZ">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1305,7 +1305,7 @@
         <category name="tools" />
     </type>
     <type name="Flag_NAPA">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1329,7 +1329,7 @@
         <category name="tools" />
     </type>
     <type name="Flag_Pirates">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1342,7 +1342,7 @@
         <usage name="School" />
     </type>
     <type name="Flag_RSTA">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1355,7 +1355,7 @@
         <usage name="School" />
     </type>
     <type name="Flag_Refuge">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1379,7 +1379,7 @@
         <category name="tools" />
     </type>
     <type name="Flag_Rooster">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -1403,7 +1403,7 @@
         <category name="tools" />
     </type>
     <type name="Flag_Snake">
-        <nominal>2</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -2120,7 +2120,7 @@
         <category name="tools" />
     </type>
     <type name="NailBox">
-        <nominal>90</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>70</min>
@@ -2366,7 +2366,7 @@
         <category name="tools" />
     </type>
     <type name="PileOfWoodenPlanks">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
         <min>20</min>
