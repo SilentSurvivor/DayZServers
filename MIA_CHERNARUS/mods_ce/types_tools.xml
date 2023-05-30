@@ -750,7 +750,7 @@
         <usage name="Military" />
     </type>
     <type name="CombinationLock">
-        <nominal>60</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>40</min>
@@ -763,7 +763,7 @@
         <usage name="Farm" />
     </type>
     <type name="CombinationLock4">
-        <nominal>40</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>20</min>
