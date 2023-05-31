@@ -2045,7 +2045,7 @@
         <value name="Tier4" />
     </type>
     <type name="MetalPlate">
-        <nominal>60</nominal>
+        <nominal>0</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>40</min>
@@ -2058,7 +2058,7 @@
         <usage name="Industrial" />
     </type>
     <type name="MetalWire">
-        <nominal>70</nominal>
+        <nominal>50</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>50</min>

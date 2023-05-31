@@ -11696,7 +11696,7 @@
         <value name="Tier3"/>
     </type>
     <type name="MetalPlate">
-        <nominal>20</nominal>
+        <nominal>00</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>10</min>
@@ -11709,7 +11709,7 @@
         <usage name="Industrial"/>
     </type>
     <type name="MetalWire">
-        <nominal>30</nominal>
+        <nominal>00</nominal>
         <lifetime>14400</lifetime>
         <restock>0</restock>
         <min>15</min>
