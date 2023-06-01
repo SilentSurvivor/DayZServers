@@ -1000,7 +1000,7 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="2" min="3" type="Offroad_02"/>
+            <child lootmax="0" lootmin="0" max="1" min="1" type="Offroad_02"/>
         </children>
     </event>
     <event name="VehicleOffroadHatchback">
