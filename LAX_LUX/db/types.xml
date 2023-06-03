@@ -787,10 +787,10 @@
 		<value name="Tier5"/>
     </type>
     <type name="AmmoBox_762x54Tracer_20Rnd">
-        <nominal>0</nominal>
+        <nominal>10</nominal>
         <lifetime>28800</lifetime>
         <restock>3600</restock>
-        <min>0</min>
+        <min>5</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -1107,10 +1107,10 @@
 		<value name="Tier5"/>
     </type>
     <type name="Ammo_556x45Tracer">
-        <nominal>0</nominal>
+        <nominal>22</nominal>
         <lifetime>28800</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>10</min>
         <quantmin>10</quantmin>
         <quantmax>40</quantmax>
         <cost>100</cost>
