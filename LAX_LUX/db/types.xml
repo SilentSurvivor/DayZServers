@@ -16784,7 +16784,7 @@
     </type>
     <type name="TerritoryFlagKit">
         <nominal>0</nominal>
-        <lifetime>14400</lifetime>
+        <lifetime>604800</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
