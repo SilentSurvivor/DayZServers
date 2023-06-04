@@ -301,19 +301,19 @@
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="BarrelHoles_Green">
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="BarrelHoles_Blue">
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="BarrelHoles_Red">
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="BarrelHoles_Yellow">
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0" /> 
   </type>
   <type name="UndergroundStash">

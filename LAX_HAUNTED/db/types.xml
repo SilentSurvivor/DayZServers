@@ -3451,7 +3451,7 @@
     </type>
     <type name="Barrel_Blue">
         <nominal>0</nominal>
-        <lifetime>300</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3462,7 +3462,7 @@
     </type>
     <type name="Barrel_Green">
         <nominal>0</nominal>
-        <lifetime>300</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -3473,7 +3473,7 @@
     </type>
     <type name="Barrel_Red">
         <nominal>100</nominal>
-        <lifetime>300</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>100</min>
         <quantmin>-1</quantmin>
@@ -3484,7 +3484,7 @@
     </type>
     <type name="Barrel_Yellow">
         <nominal>0</nominal>
-        <lifetime>300</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -15275,7 +15275,7 @@
     </type>
     <type name="BarrelHoles_Blue">
         <nominal>0</nominal>
-        <lifetime>300</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -15286,7 +15286,7 @@
     </type>
     <type name="BarrelHoles_Green">
         <nominal>0</nominal>
-        <lifetime>7200</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -15297,7 +15297,7 @@
     </type>
     <type name="BarrelHoles_Red">
         <nominal>0</nominal>
-        <lifetime>300</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>
@@ -15308,7 +15308,7 @@
     </type>
     <type name="BarrelHoles_Yellow">
         <nominal>0</nominal>
-        <lifetime>300</lifetime>
+        <lifetime>3888000</lifetime>
         <restock>0</restock>
         <min>0</min>
         <quantmin>-1</quantmin>

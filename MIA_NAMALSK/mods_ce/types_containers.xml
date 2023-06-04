@@ -47,7 +47,7 @@
   <type name="Barrel_Green">
     <nominal>3</nominal>
     <min>2</min>
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -61,7 +61,7 @@
   <type name="Barrel_Blue">
     <nominal>5</nominal>
     <min>3</min>
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -75,7 +75,7 @@
   <type name="Barrel_Red">
     <nominal>5</nominal>
     <min>3</min>
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
@@ -89,7 +89,7 @@
   <type name="Barrel_Yellow">
     <nominal>5</nominal>
     <min>3</min>
-    <lifetime>604800</lifetime>
+    <lifetime>3888000</lifetime>
     <restock>10800</restock>
     <quantmin>-1</quantmin>
     <quantmax>-1</quantmax>
