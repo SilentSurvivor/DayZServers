@@ -11044,6 +11044,7 @@
 		</group>
 		<group name="Land_Castle_Bergfrit">
 				<usage name="Hunting" />
+				<usage name="Historical"/>
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -11075,6 +11076,7 @@
 		</group>
 		<group name="Land_Castle_Gate" lootmax="4">
 				<usage name="Hunting" />
+				<usage name="Historical"/>
 				<container name="lootFloor">
 						<category name="tools" />
 						<category name="containers" />
@@ -11099,6 +11101,7 @@
 		</group>
 		<group name="Land_Castle_Stairs_nolc" lootmax="3">
 				<usage name="Hunting" />
+				<usage name="Historical"/>
 				<container name="lootFloor" lootmax="3">
 						<category name="tools" />
 						<category name="containers" />
@@ -11887,6 +11890,7 @@
 				<usage name="Coast" />
 				<usage name="Town" />
 				<usage name="Village" />
+				<usage name="Historical"/>
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
@@ -12929,6 +12933,7 @@
 		<group name="Land_Castle_Bastion2" >
 				<usage name="Hunting" />
 				<usage name="Village" />
+				<usage name="Historical"/>
 				<container name="lootFloor" lootmax="2">
 						<category name="tools" />
 						<category name="containers" />
