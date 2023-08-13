@@ -203,7 +203,7 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-    <type name="MMG_mk_V_grenade_pouch_green">
+    <type name="MMG_mk5_grenade_pouch_green">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>
         <restock>7200</restock>

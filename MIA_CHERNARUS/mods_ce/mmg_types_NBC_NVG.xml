@@ -3,6 +3,7 @@
 <!--NBC POUCH-->
 
 <types>
+
     <type name="MMG_nbc_pouch">
         <nominal>5</nominal>
         <lifetime>7200</lifetime>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--VESTS-->
-
 <types>
+
 	<type name="MMG_tt_Vest_police">
 		<nominal>5</nominal>
 		<lifetime>7200</lifetime>
