@@ -204,9 +204,9 @@
         </children>
     </event>
     <event name="AnimalWolf">
-        <nominal>11</nominal>
+        <nominal>16</nominal>
         <min>5</min>
-        <max>11</max>
+        <max>10</max>
         <lifetime>180</lifetime>
         <restock>0</restock>
         <saferadius>200</saferadius>
@@ -265,7 +265,7 @@
         </children>
     </event>
     <event name="InfectedArmyHard">
-        <nominal>10</nominal>
+        <nominal>15</nominal>
         <min>5</min>
         <max>25</max>
         <lifetime>3</lifetime>
@@ -379,7 +379,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="90" type="ZmbM_FirefighterNormal"/>
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbM_NBC_Yellow"/>
@@ -428,9 +428,9 @@
         </children>
     </event>
     <event name="InfectedMedic">
-        <nominal>50</nominal>
-        <min>25</min>
-        <max>100</max>
+        <nominal>15</nominal>
+        <min>10</min>
+        <max>20</max>
         <lifetime>3</lifetime>
         <restock>0</restock>
         <saferadius>100</saferadius>
@@ -439,7 +439,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>0</active>
+        <active>1</active>
         <children>
             <child lootmax="5" lootmin="0" max="0" min="10" type="ZmbF_DoctorSkinny"/>
             <child lootmax="5" lootmin="0" max="0" min="7" type="ZmbF_NurseFat"/>
@@ -520,7 +520,7 @@
         <flags deletable="0" init_random="0" remove_damaged="1"/>
         <position>player</position>
         <limit>custom</limit>
-        <active>1</active>
+        <active>0</active>
         <children>
             <child lootmax="5" lootmin="0" max="100" min="90" type="ZmbM_PolicemanSpecForce_Heavy"/>
             <child lootmax="5" lootmin="0" max="10" min="0" type="ZmbM_PrisonerSkinny"/>
@@ -613,7 +613,7 @@
         </children>
     </event>
     <event name="InfectedVillage">
-        <nominal>30</nominal>
+        <nominal>35</nominal>
         <min>15</min>
         <max>100</max>
         <lifetime>3</lifetime>
@@ -693,7 +693,7 @@
         <children/>
     </event>
     <event name="StaticBonfire">
-        <nominal>0</nominal>
+        <nominal>12</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>180</lifetime>
@@ -711,7 +711,7 @@
         </children>
     </event>
     <event name="StaticChristmasTree">
-        <nominal>0</nominal>
+        <nominal>17</nominal>
         <min>0</min>
         <max>0</max>
         <lifetime>43200</lifetime>
@@ -779,9 +779,9 @@
         </children>
     </event>
     <event name="StaticMilitaryConvoy">
-        <nominal>0</nominal>
-        <min>0</min>
-        <max></max>
+        <nominal>3</nominal>
+        <min>2</min>
+        <max>5</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>1000</saferadius>
@@ -814,9 +814,9 @@
         </children>
     </event>
     <event name="StaticPoliceSituation">
-        <nominal>0</nominal>
-        <min>0</min>
-        <max>0</max>
+        <nominal>5</nominal>
+        <min>5</min>
+        <max>5</max>
         <lifetime>1800</lifetime>
         <restock>0</restock>
         <saferadius>500</saferadius>
@@ -949,7 +949,7 @@
         </children>
     </event>
     <event name="VehicleCivilianSedan">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>300</lifetime>
@@ -968,7 +968,7 @@
         </children>
     </event>
     <event name="VehicleHatchback02">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>300</lifetime>
@@ -987,7 +987,7 @@
         </children>
     </event>
     <event name="VehicleOffroad02">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <min>2</min>
         <max>3</max>
         <lifetime>300</lifetime>
@@ -1000,11 +1000,11 @@
         <limit>mixed</limit>
         <active>1</active>
         <children>
-            <child lootmax="0" lootmin="0" max="1" min="1" type="Offroad_02"/>
+            <child lootmax="0" lootmin="0" max="2" min="3" type="Offroad_02"/>
         </children>
     </event>
     <event name="VehicleOffroadHatchback">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>300</lifetime>
@@ -1023,7 +1023,7 @@
         </children>
     </event>
     <event name="VehicleSedan02">
-        <nominal>3</nominal>
+        <nominal>4</nominal>
         <min>2</min>
         <max>4</max>
         <lifetime>300</lifetime>
