@@ -2,6 +2,1542 @@
 
 <types>
 
+<!-- Types 1.5.0 -->
+    <type name="FOG_G99_Pants_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_G99_Pants_CB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_G99_Pants_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_G99_Pants_M81">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_G2_Hoodie_MC">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_G3_Hoodie_MC">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_G3_Hoodie_MC_Pata">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_G3_Hoodie_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_G3_Hoodie_Blue">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_G3_Hoodie_DPM">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_G3_Hoodie_AOR1">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_G3_Hoodie_AOR2">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_G3_Hoodie_M81">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_GunGloves_Tan">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_GunGloves_Grey">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_GunGloves_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_GunGloves_CB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_GunGloves_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_GunGloves_MC">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_GunGloves_MCB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_GunGloves_M81">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_GunGloves_AOR2">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Helmet_FASTMT_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Helmet_FASTMT_AOR1">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Helmet_FASTMT_AOR2">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Boonie_MC">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Boonie_MCB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Boonie_AOR1">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Boonie_AOR2">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Boonie_M81">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Boonie_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Boonie_Grey">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Boonie_Khk">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Boonie_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Boonie_CB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Combat_HikingBoots_Khaki">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Combat_HikingBoots_Grey">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Combat_HikingBoots_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Zypher_Boots_Tan_Socks">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Zypher_Boots_Black_Socks">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Zypher_Boots_RG_Socks">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Zypher_Boots_Tan_NoSocks">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Zypher_Boots_Black_NoSocks">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Zypher_Boots_RG_NoSocks">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Lerch_Boots_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Lerch_Boots_Black_Dirty">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Lerch_Boots_MC">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Lerch_Boots_MCB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Lerch_Boots_Khk">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Lerch_Boots_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Lerch_Boots_CB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_LV119_CB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_LV119_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_LV119_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_LV119_MC">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_LVMBAV_CB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_LVMBAV_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_LVMBAV_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_LVMBAV_Tan">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_PACA_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_Thor_Tan">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_Thor_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_Thor_Green">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_Thor_EMR">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_Thor_MC">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_Thor_MCB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_Thor_M81">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_SSMK4_CB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_SSMK4_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_SSMK4_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_SSMK4_Grey">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_SSMK4_MC">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_SSMK4_MCA">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_SSMK4_MCT">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Vest_SSMK4_M81">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Big_Patch_US_MC_IR">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Big_Patch_UK_Colored">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Small_Patch_US_IR">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Small_Patch_US_IR_Damaged">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Small_Patch_US_Subdued">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Small_Patch_UK_Subdued">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Panel_MapPackMed_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Panel_MapPackMed_CB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Panel_MapPackMed_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Panel_MapPackMed_Khk">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Pouch_TraumaRoll_MC">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Pouch_TraumaRoll_MCB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Pouch_TraumaRoll_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Pouch_TraumaRoll_CB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_Pouch_TraumaRoll_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_M32_Helmet_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_M32_Helmet_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_AMP_Tan">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_AMP_MC">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_AMP_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_AMP_MCB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_AMP_MCBT">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_SF_Cover_MC">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_SF_Cover_MCB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_SF_Cover_AOR1">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_SF_Cover_AOR2">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_SF_Cover_CB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_SF_Cover_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_SF_Cover_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FC_Torus_BattPack_MC">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FC_Torus_BattPack_MCB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FC_Torus_BattPack_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FC_Torus_BattPack_CB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FC_Torus_BattPack_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FastMT_RAC_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FastMT_RAC_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FASTMT_Cover_MC">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FASTMT_Cover_MCB">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FASTMT_Cover_AOR1">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FASTMT_Cover_AOR2">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FASTMT_Cover_ALP">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FASTMT_Cover_RG">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+    <type name="FOG_FASTMT_Cover_Black">
+        <nominal>0</nominal>
+        <lifetime>3200</lifetime>
+        <restock>0</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0" />
+        <value user="Tier234" />
+        <category name="clothes" />
+        <tag name="military" />
+    </type>
+
     <!-- Types 1.4.0 -->
     <type name="FOG_UFP_Pants_6CD">
         <nominal>10</nominal>
