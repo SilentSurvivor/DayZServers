@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <territory-type>
-
+    
     <territory color="1842305426">
-        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="8255.63" z="9215.63" r="50"/>
+        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="8303.63" z="9134.63" r="50"/>
         <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="7927.5" z="9840" r="50"/>
-        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="8863.13" z="8825.63" r="50"/>
+        <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="8437.13" z="9016.13" r="50"/>
         <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="5595" z="4051.67" r="50"/>
         <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="7865.63" z="2240.63" r="50"/>
         <zone name="AnimalPig" smin="0" smax="0" dmin="1" dmax="1" x="8214.38" z="2131.88" r="50"/>
