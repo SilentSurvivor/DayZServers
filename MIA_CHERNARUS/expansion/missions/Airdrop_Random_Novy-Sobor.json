@@ -10,6 +10,7 @@
     "Height": 450.0,
     "Speed": 25.0,
     "Container": "Random",
+    "FallSpeed": 4.5,
     "DropLocation": {
         "x": 7436.0,
         "z": 7720.0,
