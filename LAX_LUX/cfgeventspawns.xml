@@ -370,7 +370,6 @@
 		<pos x="7855" z="2675" a="0" y="191.608" group="Block_Radacz"/>		
 	</event>
 
-    <event name="VehicleTransitBus" />
     <event name="InfectedVillage" />
     <event name="InfectedSolitude" />
     <event name="InfectedArmy" />

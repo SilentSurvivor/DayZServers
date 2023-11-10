@@ -1718,7 +1718,6 @@
 	</event>
 	<!-- End Random Zombie Placement -->
 
-	<event name="VehicleTransitBus" />
 	<event name="InfectedVillage" />
 	<event name="InfectedSolitude" />
 	<event name="InfectedArmy" />
