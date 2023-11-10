@@ -104,7 +104,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Hatchback_02_Door_1_2_BanditKitty">
@@ -116,7 +116,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Hatchback_02_Door_2_1_BanditKitty">
@@ -128,7 +128,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Hatchback_02_Door_2_2_BanditKitty">
@@ -140,7 +140,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Hatchback_02_Hood_BanditKitty">
@@ -152,7 +152,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Hatchback_02_Trunk_BanditKitty">
@@ -164,7 +164,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
 
@@ -236,7 +236,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Door_1_2_YellowBright">
@@ -248,7 +248,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Door_2_1_YellowBright">
@@ -260,7 +260,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Door_2_2_YellowBright">
@@ -272,7 +272,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Hood_YellowBright">
@@ -284,7 +284,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Trunk_YellowBright">
@@ -296,7 +296,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
 
@@ -320,7 +320,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Door_1_2_Blue">
@@ -332,7 +332,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Door_2_1_Blue">
@@ -344,7 +344,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Door_2_2_Blue">
@@ -356,7 +356,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Hood_Blue">
@@ -368,7 +368,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Trunk_Blue">
@@ -380,7 +380,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
 
@@ -404,7 +404,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Door_1_2_BlueRust">
@@ -416,7 +416,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Door_2_1_BlueRust">
@@ -428,7 +428,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Door_2_2_BlueRust">
@@ -440,7 +440,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Hood_BlueRust">
@@ -452,7 +452,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Sedan_02_Trunk_BlueRust">
@@ -464,7 +464,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
 
@@ -488,7 +488,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_1_1_Red">
@@ -500,7 +500,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_2_1_Red">
@@ -512,7 +512,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Covered_White">
@@ -534,7 +534,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_1_1_White">
@@ -546,7 +546,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_2_1_White">
@@ -558,7 +558,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Covered_Black">
@@ -580,7 +580,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_1_1_Black">
@@ -592,7 +592,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_2_1_Black">
@@ -604,7 +604,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Covered_Wine">
@@ -626,7 +626,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_1_1_Wine">
@@ -638,7 +638,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_2_1_Wine">
@@ -650,7 +650,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Covered_Lime">
@@ -672,7 +672,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_1_1_Lime">
@@ -684,7 +684,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_2_1_Lime">
@@ -696,7 +696,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Covered_Yellow">
@@ -718,7 +718,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_1_1_Yellow">
@@ -730,7 +730,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_2_1_Yellow">
@@ -742,7 +742,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Covered_YellowBright">
@@ -764,7 +764,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_1_1_YellowBright">
@@ -776,7 +776,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     <type name="Truck_01_Door_2_1_YellowBright">
@@ -788,7 +788,7 @@
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-        <category name="vehiclesparts"/>
+        <category name="lootdispatch"/>
         <usage name="Industrial"/>
     </type>
     
