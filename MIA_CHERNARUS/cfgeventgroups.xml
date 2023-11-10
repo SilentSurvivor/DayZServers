@@ -220,18 +220,6 @@
         <child type="Land_Container_1Aoh_DE" deloot="0" lootmax="5" lootmin="3" x="-43.637" z="-70.079" a="207.296" y="2.164"/>
     </group>
 
-    <!--pos x="9384.272" z="13392.446" a="0" y="105.168" group="Train_Accident_Severo"/-->
-    <group name="Train_Accident_Severo">
-        <child type="StaticObj_Wreck_Train_742_Blue_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" a="196.725" y="1.9"/>
-        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="29.008" z="53.607" a="33.647" y="1.2067"/>
-        <child type="StaticObj_Wreck_Ural_DE" deloot="0" lootmax="3" lootmin="1" x="-4.430" z="-5.382" a="342.529"/>
-        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="4.738" z="11.703" a="24.881" y="1.253"/>
-        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="15.961" z="33.232" a="29.135" y="1.256"/>
-        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="10.146" z="22.590" a="26.428" y="1.260"/>
-        <child type="Land_Train_Wagon_Box_DE" deloot="0" lootmax="3" lootmin="2" x="22.241" z="43.574" a="32.616" y="1.200"/>
-        <child type="StaticObj_Wreck_Decal_Small2_DE" spawnsecondary="false" x="-4.959" z="-5.016" a="159.211"/>
-    </group>
-
     <!--pos x="13213.484" z="6894.041" a="0" y="6.000" group="Train_Accident_Solnichniy"/-->
     <group name="Train_Accident_Solnichniy">
         <child type="StaticObj_Wreck_Train_742_Red_DE" deloot="0" lootmax="3" lootmin="1" x="0" z="0" a="162.691" y="1.9"/>
