@@ -1,5 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
 <messages>
 
     <message>
@@ -7,5 +6,21 @@
         <repeat>25</repeat>
         <text>Was that a Helicopter or a Plane I just heard?</text>
     </message>    
- 
+
+    <message>
+        <delay>1</delay>
+        <onconnect>1</onconnect>
+        <text>Welcome to the world that once was!</text>
+    </message>
+    <message>
+        <delay>2</delay>
+        <onconnect>1</onconnect>
+        <text>Can you avoid the Zombies, Witches, Pumpkin Men and Wild Beasts that are hunting you?</text>
+    </message>
+    <message>
+        <delay>2</delay>
+        <onconnect>1</onconnect>
+        <text>Plenty to find here. Enjoy your stay! Explore a little!</text>
+    </message>
+	
 </messages>

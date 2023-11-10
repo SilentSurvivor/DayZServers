@@ -1,7 +1,7 @@
 {
     "Areas": [
 		{ 	"AreaName": "Haunted-Area-1", 
-			"Type": "ContaminatedArea_Static", 
+			"Type": "SpookyArea", 
 			"TriggerType": "EffectTrigger",
 			"Data": { 
 				"Pos": [ 12167, 0, 12634 ],
@@ -24,7 +24,7 @@
 			}
 		},
         { 	"AreaName": "Haunted-Area-2", 
-			"Type": "ContaminatedArea_Static", 
+			"Type": "SpookyArea", 
 			"TriggerType": "EffectTrigger",
 			"Data": { 
 				"Pos": [ 12167, 0, 12634 ],
@@ -47,7 +47,7 @@
 			}
 		},
         { 	"AreaName": "Haunted-Maze-1", 
-			"Type": "ContaminatedArea_Static", 
+			"Type": "SpookyArea", 
 			"TriggerType": "EffectTrigger",
 			"Data": { 
 				"Pos": [ 4191, 0, 7878 ],
@@ -70,7 +70,7 @@
 			}
 		},
         { 	"AreaName": "Haunted-FloatingCastle-1", 
-			"Type": "ContaminatedArea_Static", 
+			"Type": "SpookyArea", 
 			"TriggerType": "EffectTrigger",
 			"Data": { 
 				"Pos": [ 11240, 360, 7954 ],
@@ -93,7 +93,7 @@
 			}
 		},
         { 	"AreaName": "Haunted-Ground-Door-1", 
-			"Type": "ContaminatedArea_Static", 
+			"Type": "SpookyArea", 
 			"TriggerType": "EffectTrigger",
 			"Data": { 
 				"Pos": [ 11239, 0, 7946.5 ],
@@ -111,7 +111,7 @@
 				}
 		},
         { 	"AreaName": "Fog-0-gnomovzamok-castle", 
-			"Type": "ContaminatedArea_Static", 
+			"Type": "SpookyArea", 
 			"TriggerType": "EffectTrigger",
 			"Data": { 
 				"Pos": [ 3224, 0, 9111 ],
@@ -134,7 +134,7 @@
 			}
 		},
         { 	"AreaName": "Fog-1", 
-			"Type": "ContaminatedArea_Static", 
+			"Type": "SpookyArea", 
 			"TriggerType": "EffectTrigger",
 			"Data": { 
 				"Pos": [ 3224, 0, 13313 ],
@@ -157,7 +157,7 @@
 			}
 		},
         { 	"AreaName": "Fog-2", 
-			"Type": "ContaminatedArea_Static", 
+			"Type": "SpookyArea", 
 			"TriggerType": "EffectTrigger",
 			"Data": { 
 				"Pos": [ 10000, 0, 13313 ],
@@ -180,7 +180,7 @@
 			}
 		},
         { 	"AreaName": "Fog-3", 
-			"Type": "ContaminatedArea_Static", 
+			"Type": "SpookyArea", 
 			"TriggerType": "EffectTrigger",
 			"Data": { 
 				"Pos": [ 6274, 0, 10388 ],
@@ -203,7 +203,7 @@
 			}
 		},
         { 	"AreaName": "Fog-4", 
-			"Type": "ContaminatedArea_Static", 
+			"Type": "SpookyArea", 
 			"TriggerType": "EffectTrigger",
 			"Data": { 
 				"Pos": [ 2198, 0, 6412 ],
@@ -226,7 +226,7 @@
 			}
 		},
         { 	"AreaName": "Fog-5", 
-			"Type": "ContaminatedArea_Static", 
+			"Type": "SpookyArea", 
 			"TriggerType": "EffectTrigger",
 			"Data": { 
 				"Pos": [ 10350, 0, 6412 ],
