@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <territory-type> 
-    <!-- 1.22 -->
     
-<!-- added 1.14 -->
+    <!-- added 1.14 -->
     <territory color="1925774598">
         <zone name="InfectedNBC" smin="8" smax="10" dmin="1" dmax="2" x="2148.21" z="3334.64" r="80"/>
         <zone name="InfectedNBC" smin="0" smax="0" dmin="2" dmax="4" x="2093.57" z="3510" r="80"/>
@@ -11,7 +11,7 @@
     </territory>
     <territory color="1124502272">
 	<!--
-NOTE : This is for the CHERNARUS map ONLY. it will NOT work if you are on the livonia map.
+    NOTE : This is for the CHERNARUS map ONLY. it will NOT work if you are on the livonia map.
        All but 1 Territory has been removed thus all zombies are in the same territory now.
        You might notice that they wander just a bit more and might even have better hearing :)
        I had removed all the zombies from the map. once cleared I then placed horde by horde
@@ -20,12 +20,11 @@ NOTE : This is for the CHERNARUS map ONLY. it will NOT work if you are on the li
        has also been increased over all. Each area that the zombies have been placed at is now
        marked with a comment of the name of the city/place/area.
 
--->	
-<!-- 
+    -->
 
+<!-- 
 <zone name="InfectedMummy" smin="0" smax="0" dmin="4" dmax="6" x="7714.73" z="12723.7" r="60"/>
 <zone name="InfectedSanta" smin="0" smax="0" dmin="4" dmax="6" x="7714.73" z="12723.7" r="60"/>
-
 -->
 
 <zone name="InfectedSanta" smin="0" smax="0" dmin="4" dmax="6" x="12083.73" z="12446.7" r="60"/>
@@ -665,14 +664,6 @@ NOTE : This is for the CHERNARUS map ONLY. it will NOT work if you are on the li
 <zone name="InfectedWitch" smin="0" smax="0" dmin="8" dmax="12" x="4142.5" z="8937.17" r="120"/>
 <zone name="InfectedWitch" smin="0" smax="0" dmin="6" dmax="12" x="3827.5" z="8926.5" r="60"/>
 
-<!-- end new entrys -->
+</territory>
 
-    </territory>
 </territory-type>
-
-<!--
-****************************************************
-Org File Created by Bhaalshad. For more help files for DayZ come visit us at DonSibley.Games
-If you upload this to another Discord or webpage, please leave filename intact and dont take credit
-as your own. Thank you and enjoy :)
--->

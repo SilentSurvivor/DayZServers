@@ -1,19 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
 <eventposdef>
-<!-- Haunted Area Effect -->
-<!--
-    <event name="StaticHuanted1">
-	<zone smin="1" smax="1" dmin="1" dmax="1" r="150" />
-        <pos x="12116.0" z="12671.0" a="0.000000" />
-	</event>	
--->
-<!-- Death Match addons -->
-<!--
-    <event name="StaticTowerA">
-	<zone smin="1" smax="1" dmin="1" dmax="1" r="55" />
-        <pos x="12230.0" z="12845.0" a="0.000000" />
-	</event>	
--->	
 
 <!-- Area 1 Construction Buildings -->
 <event name="VehicleOffroad02">
@@ -26,14 +13,11 @@
 		<!-- pvp at sea <pos x="13850" z="11700" a="0.0" /> -->
 		<!-- <pos x="11814.54" z="12428.73" a="0.000000" /> -->
     </event>	
-    <event name="StaticNpc1">
-        <pos x="11841.0" z="12448.0" a="0.000000" />
-    </event>	
 	
 <!-- Ruined Church -->
-	<event name="StaticChurch1">
+<event name="StaticChurch1">
 	<pos x="12087.0" z="12680.0" a="0.000000" />
-	</event>	
+</event>	
 
 	
 <event name="StaticChristmasTree1">
@@ -77,9 +61,9 @@
 </event>
 <event name="StaticChristmasTree14">
 	<pos x="4481.21" z="10550.17" a="-1" />
-</event>	
+</event>
 
-	<event name="StaticChristmasTree">
+<event name="StaticChristmasTree">
 		<pos x="6560.29" z="2462.12" a="0.0" />
 		<pos x="1652.66" z="14230.71" a="0.0" />
 		<pos x="3801.06" z="8847.76" a="0.0" />
@@ -93,7 +77,7 @@
 		<pos x="12022.64" z="9082.89" a="0.0" />
 		<pos x="10468.54" z="2373.16" a="0.0" />
 		<pos x="2725.48" z="5288.75" a="0.0" />
-	</event>
+</event>
     <event name="StaticHeliCrash">
 		<zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
 <!-- bonfire spawns as heli spawns -->

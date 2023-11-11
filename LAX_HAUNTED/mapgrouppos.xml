@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+
 <map>
+
 <!-- pyramid fort -->
 <group name="Land_Mil_Barracks1" pos="3212.169922 288.200012 8698.459961" rpy="0.000000 0.000000 -125.999992" a="-144"/>
 <group name="Land_Mil_Barracks1" pos="3202.729980 288.000000 8691.559570" rpy="0.000000 0.000000 -125.999992" a="-144"/>

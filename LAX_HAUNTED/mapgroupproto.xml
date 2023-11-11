@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
 <prototype>
+
 		<defaults>
 				<default name="group" lootmax="6" />
 				<default name="container" lootmax="4" />
@@ -15506,144 +15508,6 @@
 						</dispatch>
 		</group>
 
-<!-- NOT INGAME - PREPARATION
-		<group name="Land_Wreck_truck02_aban1_green" >
-				<usage name="Clothes"/>
-				<usage name="FoodDrink"/>
-				<usage name="Attachment"/>
-				<usage name="Weapons"/>
-				<usage name="MagsAmmo"/>
-				<usage name="Tools"/>
-				<usage name="RepairItems"/>			
-						<container name="loot" lootmax="2">
-
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_truck02_aban1_orange" >
-				<usage name="Clothes"/>
-				<usage name="FoodDrink"/>
-				<usage name="Attachment"/>
-				<usage name="Weapons"/>
-				<usage name="MagsAmmo"/>
-				<usage name="Tools"/>
-				<usage name="RepairItems"/>		
-						<container name="loot" lootmax="2">
-
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_truck02_aban2_green" >
-				<usage name="Clothes"/>
-				<usage name="FoodDrink"/>
-				<usage name="Attachment"/>
-				<usage name="Weapons"/>
-				<usage name="MagsAmmo"/>
-				<usage name="Tools"/>
-				<usage name="RepairItems"/>			
-						<container name="loot" lootmax="2">
-
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_truck02_aban2_orange" >
-				<usage name="Clothes"/>
-				<usage name="FoodDrink"/>
-				<usage name="Attachment"/>
-				<usage name="Weapons"/>
-				<usage name="MagsAmmo"/>
-				<usage name="Tools"/>
-				<usage name="RepairItems"/>		
-						<container name="loot" lootmax="2">
-
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_van01_aban1_beige" >
-				<usage name="Clothes"/>
-				<usage name="FoodDrink"/>
-				<usage name="Attachment"/>
-				<usage name="Weapons"/>
-				<usage name="MagsAmmo"/>
-				<usage name="Tools"/>
-				<usage name="RepairItems"/>		
-						<container name="loot" lootmax="2">
-
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_van01_aban1_blue" >
-				<usage name="Clothes"/>
-				<usage name="FoodDrink"/>
-				<usage name="Attachment"/>
-				<usage name="Weapons"/>
-				<usage name="MagsAmmo"/>
-				<usage name="Tools"/>
-				<usage name="RepairItems"/>		
-						<container name="loot" lootmax="2">
-
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_van01_aban2_beige" >
-				<usage name="Clothes"/>
-				<usage name="FoodDrink"/>
-				<usage name="Attachment"/>
-				<usage name="Weapons"/>
-				<usage name="MagsAmmo"/>
-				<usage name="Tools"/>
-				<usage name="RepairItems"/>			
-						<container name="loot" lootmax="2">
-
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
-		<group name="Land_Wreck_van01_aban2_blue" >
-				<usage name="Clothes"/>
-				<usage name="FoodDrink"/>
-				<usage name="Attachment"/>
-				<usage name="Weapons"/>
-				<usage name="MagsAmmo"/>
-				<usage name="Tools"/>
-				<usage name="RepairItems"/>			
-						<container name="loot" lootmax="2">
-
-						</container>
-						<dispatch>
-								<proxy type="HatchbackWheel" pos="0.78 -0.427 -1.155" rpy="90.0 0.0 45.0" />
-								<proxy type="HatchbackDoors_Driver" pos="0.767 0.787 -0.532" rpy="90.0 180.0 -90.0" />
-								<proxy type="HatchbackTrunk" pos="-0.054 0.163 1.516" rpy="90.0 180.0 -90.0" />
-						</dispatch>
-		</group>
--->
 <!-- New Static Objects -->
 <group name="StaticObj_Furniture_piano" lootmax="3">
 	<usage name="Military"/>
@@ -15902,6 +15766,5 @@
 			<point pos="0.183594 1.208344 0.210449" range="0.35" height="1.50" />
 	</container>
 </group>
-
 
 </prototype>
