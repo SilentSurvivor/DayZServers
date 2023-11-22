@@ -1,14 +1,14 @@
 {
-    "m_Version": 11,
+    "m_Version": 12,
     "MarketSystemEnabled": 1,
     "NetworkCategories": [],
     "CurrencyIcon": "DayZExpansion/Core/GUI/icons/misc/coinstack2_64x64.edds",
     "ATMSystemEnabled": 1,
-    "MaxDepositMoney": 10000000,
-    "DefaultDepositMoney": 1000,
+    "MaxDepositMoney": 100000000,
+    "DefaultDepositMoney": 10000,
     "ATMPlayerTransferEnabled": 1,
     "ATMPartyLockerEnabled": 1,
-    "MaxPartyDepositMoney": 10000000,
+    "MaxPartyDepositMoney": 100000000,
     "UseWholeMapForATMPlayerList": 0,
     "SellPricePercent": 75.0,
     "NetworkBatchSize": 100,
@@ -270,5 +270,7 @@
     ],
     "VehicleKeys": [
         "ExpansionCarKey"
-    ]
+    ],
+    "MaxSZVehicleParkingTime": 1800.0,
+    "SZVehicleParkingTicketFine": 0
 }

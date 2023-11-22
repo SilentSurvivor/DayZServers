@@ -1651,6 +1651,7 @@
 			<item name="HeadlightH7" chance="0.40" />
         </attachments>
 	</type>
+	
 	<!-- CARS -->
 	<type name="ExpansionUAZ">
 		<attachments chance="1.00">
@@ -2678,7 +2679,7 @@
 			<item name="Expansion_Landrover_Trunk_Green" chance="0.40" />
 		</attachments>
 	</type>
-	
+
 	<!-- BOATS -->
 	<type name="ExpansionUtilityBoat">
 		<attachments chance="1.00">

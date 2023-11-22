@@ -1063,7 +1063,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-	<type name="ExpansionBigGyrocopter">
+    <type name="ExpansionBigGyrocopter">
         <nominal>0</nominal>
         <lifetime>3888000</lifetime>
         <restock>1800</restock>
@@ -1089,7 +1089,7 @@
         <lifetime>120</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
-	<type name="ExpansionBigGyrocopterWreck">
+    <type name="ExpansionBigGyrocopterWreck">
         <lifetime>120</lifetime>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
     </type>
@@ -3350,7 +3350,7 @@
         <tag name="floor"/>
         <usage name="Industrial"/>
     </type>
-    
+
 	<!-- OPTICS -->
 	<type name="ExpansionKar98ScopeOptic">
         <nominal>15</nominal>
@@ -3478,7 +3478,6 @@
         <category name="weapons"/>
         <usage name="Military"/>
         <usage name="Industrial"/>
-        <usage name="Industrial"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
     </type>
@@ -3575,8 +3574,8 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-	<!-- PISTOLS -->
 
+	<!-- PISTOLS -->
 	<type name="Expansion_Taser_Yellow">
         <nominal>20</nominal>
         <lifetime>10800</lifetime>
@@ -3850,7 +3849,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Weapons"/>
+        <usage name="weapons"/>
         <usage name="Police"/>
         <usage name="Industrial"/>
 		<value name="Tier1"/>
@@ -3899,7 +3898,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Weapons"/>
+        <usage name="weapons"/>
         <usage name="Police"/>
 		<usage name="Industrial"/>
 		<value name="Tier1"/>
@@ -3917,7 +3916,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
-        <usage name="Weapons"/>
+        <usage name="weapons"/>
         <usage name="Police"/>
 		<usage name="Industrial"/>
 		<value name="Tier1"/>
@@ -4215,7 +4214,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
-        <usage name="Weapons"/>
+        <usage name="weapons"/>
         <value name="Tier2"/>
         <value name="Tier3"/>
         <value name="Tier1"/>
@@ -4384,7 +4383,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="0" count_in_player="0" crafted="0" deloot="0"/>
     </type>
 	<!-- ITEM END -->
 
@@ -4498,7 +4497,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Weapons"/>
+        <usage name="weapons"/>
         <usage name="Police"/>
         <usage name="Industrial"/>
     </type>
@@ -4512,7 +4511,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Weapons"/>
+        <usage name="weapons"/>
         <usage name="Police"/>
         <usage name="Industrial"/>
     </type>
@@ -4526,7 +4525,7 @@
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
-        <usage name="Weapons"/>
+        <usage name="weapons"/>
         <usage name="Police"/>
         <usage name="Industrial"/>
     </type>
@@ -4541,7 +4540,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Weapons"/>
+        <usage name="weapons"/>
         <usage name="Military"/>
     </type>
 	<type name="ExpansionSafeMini">
@@ -4555,7 +4554,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Weapons"/>
+        <usage name="weapons"/>
         <usage name="Military"/>
     </type>
 	<type name="ExpansionSafeMedium">
@@ -4569,7 +4568,7 @@
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="tools"/>
         <tag name="floor"/>
-        <usage name="Weapons"/>
+        <usage name="weapons"/>
         <usage name="Military"/>
     </type>
 	<type name="ExpansionGunrack">

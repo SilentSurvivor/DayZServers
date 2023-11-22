@@ -44,7 +44,7 @@
     "CodelockActionsAnywhere": 0,
     "CodeLockLength": 4,
     "DoDamageWhenEnterWrongCodeLock": 1,
-    "DamageWhenEnterWrongCodeLock": 8.0,
+    "DamageWhenEnterWrongCodeLock": 10.0,
     "RememberCode": 1,
     "CanCraftTerritoryFlagKit": 0,
     "SimpleTerritory": 1,
@@ -67,7 +67,8 @@
                 "FishNetTrap",
                 "RabbitSnareTrap",
                 "SmallFishTrap",
-                "TripwireTrap"
+                "TripwireTrap",
+                "ExplosivesBase"
             ],
             "IsWhitelist": 1,
             "CustomMessage": ""
@@ -87,7 +88,8 @@
                 "FishNetTrap",
                 "RabbitSnareTrap",
                 "SmallFishTrap",
-                "TripwireTrap"
+                "TripwireTrap",
+                "ExplosivesBase"
             ],
             "IsWhitelist": 1,
             "CustomMessage": ""
@@ -107,7 +109,8 @@
                 "FishNetTrap",
                 "RabbitSnareTrap",
                 "SmallFishTrap",
-                "TripwireTrap"
+                "TripwireTrap",
+                "ExplosivesBase"
             ],
             "IsWhitelist": 1,
             "CustomMessage": ""
@@ -117,7 +120,6 @@
     "CodelockAttachMode": 1,
     "DismantleFlagMode": 1,
     "FlagMenuMode": 1,
-    "OverrideVanillaEntityPlacement": 0,
     "EnableVirtualStorage": 0,
     "VirtualStorageExcludedContainers": [
         "ExpansionAirdropContainerBase"
