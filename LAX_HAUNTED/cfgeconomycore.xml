@@ -3,7 +3,7 @@
 <economycore>
 
 	<classes>
-		<rootclass name="DefaultWeapon" /> <!-- weapons -->
+		<rootclass name="DefaultWeapon" /> <!-- Weapons -->
 		<rootclass name="DefaultMagazine" /> <!-- magazines -->
 		<rootclass name="Inventory_Base" /> <!-- inventory items -->
 		<rootclass name="HouseNoDestruct" reportMemoryLOD="no" /> <!-- houses, wrecks -->

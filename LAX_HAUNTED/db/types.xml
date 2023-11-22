@@ -395,7 +395,7 @@ Here is the list of Categories...
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-    <usage name="weapons"/>
+    <usage name="Weapons"/>
 </type>
 <type name="CZ550">
     <nominal>5</nominal>
@@ -406,7 +406,7 @@ Here is the list of Categories...
     <quantmax>80</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <usage name="weapons"/>
+    <usage name="Weapons"/>
 </type>
 <type name="Cleaver">
     <nominal>55</nominal>
@@ -505,7 +505,7 @@ Here is the list of Categories...
     <quantmax>-1</quantmax>
     <cost>100</cost>
     <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
-    <usage name="weapons"/>
+    <usage name="Weapons"/>
 </type>
 <type name="Mag_CZ550_10Rnd">
     <nominal>8</nominal>
